@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi I am Abdulsemed 👋
+- I’m currently working on capstone project.
+- I’m currently learning Software Engineering.
+- I have worked on SocialMedia API, a AI Tour Guide called Afro tour and lastly project i hold dear called Pc picker.
 <!--
 **Abdulsemed/Abdulsemed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
