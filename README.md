@@ -1,7 +1,7 @@
 ### Hi I am Abdulsemed 👋
-- I’m currently working on capstone project.
-- I’m currently learning Software Engineering.
-- I have worked on SocialMedia API, a AI Tour Guide called Afro tour and lastly project i hold dear called Pc picker.
+- I’m a Software Engineer graduate.
+- I used to work at Africa to Silicon Valley.
+- I have worked on Eskalate(https://eskalate.io), SparkTank(https://spark-tank.a2sv.org/), Bazar( marketplace), Afro tour(AI Tour Guide called ).
 <!--
 **Abdulsemed/Abdulsemed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
