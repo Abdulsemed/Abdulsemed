@@ -1,7 +1,7 @@
 ### Hi I am Abdulsemed 👋
 - I’m a Software Engineer graduate.
 - I used to work at Africa to Silicon Valley.
-- I have worked on Eskalate(https://eskalate.io), SparkTank(https://spark-tank.a2sv.org/), Bazar( marketplace), Afro tour(AI Tour Guide called ).
+- I have worked on Eskalate(https://eskalate.io), SparkTank(https://spark-tank.a2sv.org/), Bazar( marketplace), Afro tour(AI Tour Guide).
 <!--
 **Abdulsemed/Abdulsemed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
